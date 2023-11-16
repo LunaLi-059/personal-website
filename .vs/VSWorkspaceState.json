@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\archetypes",
+    "\\assets",
+    "\\data",
+    "\\data\\notrack",
+    "\\exampleSite",
+    "\\images",
+    "\\layouts",
+    "\\static"
+  ],
+  "PreviewInSolutionExplorer": false
+}
