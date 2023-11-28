@@ -38,18 +38,25 @@ sectionPagesMenu = 'main'
 
 [menu]
 [[menu.main]]
+    identifier = "About"
     name = 'About'
-    pageRef = '/'
+    url = "/about"
+    pageRef = '/about'
     weight = 10
 [[menu.main]]
+    identifier = "research"
     name = 'Research'
+    url = "/research"
     pageRef = '/research'
     weight = 20
 [[menu.main]]
+    identifier = "teaching"
     name = 'Teaching'
+    url = "/teaching"
     pageRef = '/teaching'
     weight = 30
 [[menu.main]]
+    identifier = "cv"
     name = 'CV'
     url = "/docs/sichen_cv11172023.pdf"
     pageRef = '/cv'
