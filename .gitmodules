@@ -1,3 +1,6 @@
 [submodule "themes/notrack"]
 path = themes/notrack
 url = "https://github.com/LunaLi-059/personal-website.git"
+[submodule "themes/hugo-resume"]
+	path = themes/hugo-resume
+	url = https://github.com/eddiewebb/hugo-resume.git

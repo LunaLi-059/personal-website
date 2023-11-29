@@ -1,7 +1,7 @@
 baseURL = ""
 languageCode = "en-us"
 title = "Sichen Li"
-theme = "notrack"
+theme = "hugo-resume"
 newContentEditor = "nvim"
 mainSections = ["about"]
 # disqusShortname = "example"
