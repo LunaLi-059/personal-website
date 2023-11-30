@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://fanciful-mandazi-39dbe8.netlify.app"
 languageCode = "en-us"
 title = "Sichen Li"
 theme = "notrack"
