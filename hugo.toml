@@ -1,7 +1,7 @@
 baseURL = ""
 languageCode = "en-us"
 title = "Sichen Li"
-theme = "hugo-resume"
+theme = "notrack"
 newContentEditor = "nvim"
 mainSections = ["about"]
 # disqusShortname = "example"
@@ -35,27 +35,3 @@ sectionPagesMenu = 'main'
 
 [permalinks]
   blog = "/blog/:year/:month/:slug"
-
-[menu]
-[[menu.main]]
-    identifier = "about"
-    name = 'About'
-    url = "/"
-    weight = 10
-[[menu.main]]
-    identifier = "research"
-    name = 'Research'
-    url = "/research"
-    pageRef = '/research'
-    weight = 20
-[[menu.main]]
-    identifier = "teaching"
-    name = 'Teaching'
-    url = "/teaching"
-    pageRef = '/teaching'
-    weight = 30
-[[menu.main]]
-    identifier = "cv"
-    name = 'CV'
-    url = "/docs/sichen_cv11172023.pdf"
-    weight = 30

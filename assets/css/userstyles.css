@@ -1,0 +1,29 @@
+/* Custom CSS for changing font to Palatino and styling the content layout */
+
+/* Changing the font of the website title */
+h2 {
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+}
+
+/* Changing the font of the main content on the front page */
+main {
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+}
+
+/* Styling for juxtaposing image and text */
+.content-wrapper {
+    display: flex;
+    align-items: flex-start; /* Aligns items to the top */
+}
+
+.content-wrapper img {
+    margin-right: 20px; /* Space between the image and the text */
+    margin-top: 30px; /* Adjust this value to move the image downwards */
+    max-width: 200px; /* Adjust the image size as needed */
+    height: auto; /* Maintain aspect ratio */
+}
+
+/* Style for the text content */
+.content-wrapper div {
+    max-width: 600px; /* Adjust the text block width as needed */
+}

@@ -3,7 +3,12 @@ title: "Teaching"
 layout: "teaching"
 url: "/teaching/"
 summary: teaching
+menu:
+  main:
+    name: "Teaching"
+    weight: 100
 ---
+
 
 
 ## Selected Teaching Experience at UC San Diego

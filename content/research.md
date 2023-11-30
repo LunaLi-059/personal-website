@@ -3,6 +3,10 @@ title: "Research"
 layout: "research"
 url: "/research/"
 summary: research
+menu:
+  main:
+    name: "Research"
+    weight: 100
 ---
 
 ### Technological Interdependence and National Security-Related Investment Restrictions: Firm-Level Evidence of CFIUS Reviews
