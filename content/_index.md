@@ -23,7 +23,7 @@ menu:
         investment issues with national security. The second part examines how technological competition prevents 
         governments from negotiating bilateral settlements to trade disputes.</p>
 
-        <p>I hold an M.A. in Political Science from Duke University and a LL.B. in International Politics from 
+        <p>I hold an M.A. degree in Political Science from Duke University and a Bachelor of Laws degree in International Politics from 
         China University of Political Science and Law.</p>
     </div>
 </div>
