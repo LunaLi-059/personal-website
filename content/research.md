@@ -27,6 +27,26 @@ government regulations. Firms' central positions in global innovation networks p
 incentivize governments to restrict their access to foreign capital, contrary to the conventional
 wisdom that technological interdependence leads to investment liberalization.
 
+### Does National Security Trump Business Interests? Evidence from a Survey Experiment with Chinese Firm Managers
+What determines firms' attitudes towards trade and investment restrictions in an authoritarian context? Contrary to conventional wisdom 
+that innovative, large, and multinational firms are strong supporters of economic openness, I argue that a restrictive policy framed to 
+defend national security can dampen those firms' opposition to protectionist measures by shaping their perspective to align with realists 
+who prioritize national interests instead of businesspersons who emphasize firm-specific interests. Based on a survey experiment involving 
+1,127 firm managers in China, I find that when provided with a national security justification, respondents increase their support for 
+protectionist trade and investment policies by around 15\% compared to the control group. Higher innovativeness, larger size, and more 
+involvement in the world economy do not increase firms' resistance to the national security framing. National security framing can silence 
+supporting voices for economic openness, challenging corporate power founded on innovation, scale economy, and participation in trade and 
+cross-border investment.  
+
+### Return-on-Investment Uncertainty and Unfair Import Investigations in High-tech Sectors
+Why do firms often struggle to negotiate bilateral settlements to resolve trade disputes involving intellectual property infringements? 
+As technological competition intensifies between major economies, protecting intellectual property in cross-border economic exchanges has 
+become an increasingly pressing issue. Despite the availability of formal mediation institutions, firms often fail to reach bilateral settlements 
+in IP disputes. I argue that high return-on-investment (ROI) uncertainty during the life cycle of patent-protected products hinders firms' from 
+accurately assessing the economic potential of the products and the government's resolve to protect them through trade remedies. This information issue 
+prevents firms from identifying mutually acceptable agreements to avoid costly litigation. By using a large language model to analyze firms' briefs for 
+unfair import investigations in the US from 2008 to 2019, I find that the high ROI uncertainty reduces the likelihood of bilateral settlements. 
+This paper contributes to the study of high-tech trade conflicts by highlighting the economic characteristics of high-tech products and their implications for trade dispute resolution.  
 
 ### How Political Tensions Fuel Cross-border Investment: American Consumer Hostility and Mergers and Acquisitions by Chinese and Japanese Firms, with Megumi Naoi
 This paper leverages firm-level data on Japanese and Chinese mergers and acquisitions
@@ -43,6 +63,16 @@ increase mergers and acquisitions with U.S. companies compared to comparable fir
 that are producing intermediate goods. Profit-seeking firms have a repertoire of tools
 to address changing consumer preferences abroad and therefore political tensions can
 fuel, rather than dampen, globalization.
+
+### The Effect of Interpersonal Interaction on Anti-Foreign Sentiment: Evidence from a Parallel Survey in the US and China, with Weiyi Shi, Revise and Resubmit at *International Studies Quarterly*
+What drives anti-foreign sentiment among the public? Existing scholarship focuses on foreign policy events or elite manipulation as primary sources of such sentiment. 
+We contribute to the existing studies by exploring the effect of interpersonal interaction on the expression of anti-foreign sentiment. In a parallel survey conducted 
+simultaneously in the US and China, we ask respondents in the control group to report how favorably they view the other country without any preface. In the treatment group, 
+respondents are told that they are participating in a parallel survey and paired with a foreign counterpart in China or the US who can see their responses. 
+We find that awareness of a foreign counterpart, even an unidentified one, leads to a more humanized perspective of the foreign country.  Our treatment increases 
+the reported favorability of the other country by 12.2 and 7.9 percentage points among American and Chinese respondents respectively. However, the effect becomes 
+negative if the counterpart is revealed to already harbor a negative view of the other country. We show that the expression of anti-foreign sentiment is
+context-dependent: an interpersonal and humanized setting holds the potential of reducing public hostility toward a disfavored country.
 
 ### The Geopolitical Consequences of COVID-19: Assessing Hawkish Mass Opinion in China, with Joshua Byun and D.G. Kim, *Political Science Quarterly*, Vol.136, No.4, 2021.
 Our central findings are twofold. 
