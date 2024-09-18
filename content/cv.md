@@ -10,5 +10,5 @@ menu:
 ---
 
 
-You can download my CV [here](/docs/sichen_cv02042024.pdf).
+You can download my CV [here](/docs/sichen_cv09182024.pdf).
 
