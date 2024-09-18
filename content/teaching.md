@@ -25,7 +25,9 @@ menu:
 - POLI 142J. National Security Strategy - Winter 2019
 
 ### Statistics
+- POLI 5D. Introduction to Social Data Analytics (Associate-Instructor) - Winter 2024
 - POLI 30D. Political Inquiry - Spring 2022
+
 
 ### Undergraduate Advising
 - Research Apprenticeship Program - 2021, 2022
